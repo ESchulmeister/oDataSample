@@ -6,6 +6,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace ODataSample.Data
 {
+    //DB 
     public partial class AppPermission
     {
         [Key]

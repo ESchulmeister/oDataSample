@@ -15,8 +15,6 @@ namespace ODataSample.Utilities
     public class ErrorHandler
     {
 
-
-
         #region variables
 
         private readonly RequestDelegate _next;
